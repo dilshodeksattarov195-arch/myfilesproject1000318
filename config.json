@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerctringify",
+        "uuid": 2974254,
+        "checksum": "cbq6v9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
